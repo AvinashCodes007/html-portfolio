@@ -1,1 +1,74 @@
 
+*{
+    background-color: antiquewhite;
+     /* antiquewhite #55B3B1; */
+    /* background-color:rgb(195,57,249) */   
+}
+
+
+
+#akhi{
+    background-color:#3D30A2;
+    color:whitesmoke;    
+}
+
+
+
+.note{
+    background-color:yellow;
+}
+
+
+
+.web{
+    background-color:#EB5B00;
+    color:whitesmoke;
+    display:inline;
+}
+
+
+
+.ed{
+    background-color:#eb44ae;
+    color:whitesmoke;
+    display:inline;
+}
+
+
+
+.work{
+    background-color:#48adfb;
+    color:whitesmoke;
+    display:inline;
+}
+
+
+
+.skil{
+    background-color: aqua;
+    color:whitesmoke;
+    display:inline;
+}
+
+
+
+.certi{
+    background-color:rgb(195,57,249);
+    color:whitesmoke;
+    display:inline;
+}
+
+
+
+.other{
+    background-color: red;
+    color:whitesmoke;
+    display:inline;
+}
+
+
+
+.right{
+    color: red;
+
+}
